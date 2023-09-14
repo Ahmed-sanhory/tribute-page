@@ -1,0 +1,43 @@
+body{
+    background-color: green;
+    margin: 0;
+    border: 0;
+}
+
+h1{
+  text-align: center;
+  font-size: 90px;
+  text-shadow: darkgreen 5px 5px;
+  border: 0;
+  margin: 0;
+}
+
+img{
+    position: relative;
+    width: 50%;
+    height: 350px;
+    left: 25%;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    border-bottom: 0px;
+}
+.main-paragraph{
+    border: 2px;
+    margin: 20px;
+    box-shadow: 10px 20px rgb(84, 224, 84);
+    background-color: rgb(62, 216, 62);
+    text-align: justify;
+    margin-bottom: 40px;
+    font-style: italic;
+}
+p{
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+footer{
+    margin: 10px;
+    align-items: flex;
+    left: 20%;
+}
